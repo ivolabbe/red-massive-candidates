@@ -4,10 +4,10 @@ Details about the galaxy sample in the paper "A very early onset of massive gala
 
 The full table is in: sample_2207.12446.ecsv 
 
-  id       ra        dec     redshift      mass    
-          deg        deg              1e+10 solMass
------ ----------- ---------- -------- -------------
-38094 214.9830187 52.9560001     7.56         11.16
+    id       ra        dec     redshift      mass    
+            deg        deg              1e+10 solMass
+  ----- ----------- ---------- -------- -------------
+  38094 214.9830187 52.9560001     7.56         11.16
 14924 214.8761499 52.8808300     9.92         10.93
  2859 214.8405503 52.8179376     8.91         10.83
 16624 214.8447697 52.8921052     9.97         10.76
